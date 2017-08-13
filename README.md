@@ -5,7 +5,7 @@ The script depends on the following components :
 - python-soundfile
 - libav-tools
 
-The script works on any formats file compatible with avconv. Output filename can be the same as the input filename.
+The script works on any formats file compatible with avconv. Likewise, generated output file can have the same filenaem as the input file.
 
 
 Exemple of using : 
